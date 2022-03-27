@@ -1,0 +1,11 @@
+.content {
+  background-color: aqua;
+   grid-area: c;
+}
+.img_maldiv {
+  width: 80%;
+  height: 30%;
+}
+.profile {
+  background-color: rgb(122, 193, 241) ;
+}
